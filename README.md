@@ -131,7 +131,7 @@ I'm always open to discussing **Data Science projects**, **AI research**, or **c
 
 - 💼 Open to: **Data Scientist, ML Engineer, AI roles**
 - 📍 Location: **Liverpool, UK** (Open to remote/hybrid)
-- 📧 Reach me: **YOUR_EMAIL@example.com**
+- 📧 Reach me: **sanjaykrishna8950@gmail.com**
 - 💬 Ask me about: **Machine Learning, Computer Vision, Data Analysis**
 
 ---
